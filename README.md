@@ -1,4 +1,4 @@
-# QR Code Authentication Classifier
+# QR Code Authentication Classifier: Detecting Original vs Counterfeit Prints
 
 A machine learning and deep learning-based system for detecting counterfeit QR codes. This project uses **Random Forest** and **Convolutional Neural Networks (CNNs)** to classify QR codes as **"First Print" (Original) or "Second Print" (Counterfeit).** The classification pipeline is built in a Jupyter Notebook (`qr_auth.ipynb`), while `predict.py` is used for real-time QR code authentication.
 
