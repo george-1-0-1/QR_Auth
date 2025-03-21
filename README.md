@@ -22,7 +22,7 @@ cd QR_AUTH
 
 ### Download dataset (drive) to repository
 ```sh
-https://drive.google.com/drive/folders/1pPeWT1zntlKXnuY_yHmpI-ZzKl4nLgQS?usp=drive_link
+https://drive.google.com/drive/folders/1dqdD3s9TSKukP6NYxw8DWikiKXcaobue?usp=sharing
 ```
 
 ### Set Up Virtual Environment (if neede)
