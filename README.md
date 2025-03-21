@@ -20,6 +20,11 @@ git clone https://github.com/george-1-0-1/QR_Auth.git
 cd QR_AUTH
 ```
 
+### Download dataset (drive) to repository
+```sh
+https://drive.google.com/drive/folders/1pPeWT1zntlKXnuY_yHmpI-ZzKl4nLgQS?usp=drive_link
+```
+
 ### Set Up Virtual Environment (if neede)
 ```sh
 python -m venv venv
@@ -34,8 +39,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-QR_AUTH/
-│── 📂 models/                  
+QR_AUTH/               
 │── 📂 QR Data/                
 │── 📜 qr_auth.ipynb           
 │── 📜 predict.py               
